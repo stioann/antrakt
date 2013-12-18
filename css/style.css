@@ -1,0 +1,18 @@
+
+body {
+    background: url('../img/bg.jpg');
+}
+
+.page-wrapper {
+    background: white;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,.8);
+}
+
+.navigation-bar {
+    background: #333;
+}
+
+.full-width {
+    max-width: 98%;
+}
